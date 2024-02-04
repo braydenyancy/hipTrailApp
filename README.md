@@ -1,2 +1,2 @@
-# hipTrailApp
+# hipTrail
 Hiking Trail App
